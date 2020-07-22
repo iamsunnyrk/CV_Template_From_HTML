@@ -1,0 +1,95 @@
+#container{
+	  height:39.5cm;
+	  width:27cm;
+	  border-style:inset;
+	  border-color:black;
+	  margin:auto;
+	  overflow:hidden;
+	  border-radius:5px;
+	  }
+	 
+	  .left-half{
+	  width:30%;
+	  Height:100%;
+	  background-color:lightgrey;
+	  float:left;
+	  padding-bottom:20px;
+	  overflow:hidden;
+	  }
+	  .right-half{
+	  width:70%;
+	  Height:100%;
+	  padding-top:100px; 
+	  padding-right:20px;
+		float:right;
+	  }
+	
+	 #right-heading{
+	 margin:30px 0px 5px 10px;;
+	 font-size:30px;
+	 font-family:Ariel;
+	 }
+	 #left-heading{
+	 margin:30px 0px 0px 10px;;
+	 font-size:30px;
+	 font-family:Ariel;
+	 }
+	 #right-content{
+	 margin:0px 0px 0px 10px;
+	 font-size:23px;
+	 font-family:Ariel;
+	 }
+	 #left-content{
+	 margin:0px 0px 0px 20px;
+	 font-size:27px;
+	 font-family:Ariel;
+	 padding-top:10px;
+	 }
+	 #sub-right-heading{
+	 font-size:25px;
+	 font-family:Ariel;
+	 margin:0px 0px 0px 10px;
+	 font-weight:bold;
+	 padding-top:20px;
+	 }
+	 
+	 .project-right-heading{
+	 padding-top:20px;
+	 padding-bottom:10px;
+	 }
+	 .project{
+	 padding-top:10px;
+	 padding-bottom:0px;
+	 }
+	 #name{
+	 font-family:courier;
+	 font-size:80px;
+	 padding-left:10px;
+	 padding-top:20px;
+	 margin:0px;
+	 }
+	 #post{
+	 font-size:30px;
+	 padding:0px 0px 60px 20px;
+	 margin:0px;
+	 letter-spacing:8px;
+	 word-spacing:10px;
+	 font-weight:normal;
+	 }
+	 #summary{
+	 font-family:ariel;
+	 padding:100px 0px 45px 10px;
+	 }
+	 .down-btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  margin:0 auto;
+  position:fixed-center;
+}
+.down-btn:hover {
+  background-color: RoyalBlue;
+}
